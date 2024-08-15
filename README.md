@@ -1,4 +1,4 @@
-# 👋 Hi there, I'm [Your Name]!
+# 👋 Hi there, I'm Abhishek!
 
 I'm a passionate **Ruby on Rails Developer** and **Project Manager** with a focus on building scalable SAAS based web applications and designing microservices architectures. I love solving complex problems and am always looking to improve my skills in software development and project management.
 
@@ -24,7 +24,7 @@ I'm a passionate **Ruby on Rails Developer** and **Project Manager** with a focu
 - **Other:** Yarn, Metro Bundler
 
 ### 📫 Get in Touch
-- **LinkedIn:** [Your LinkedIn](https://www.linkedin.com/in/aviisekh)
+- **LinkedIn:** [Here](https://www.linkedin.com/in/aviisekh)
 - **Email:** aviisekh@gmail.com
 
 ### ⚡ Fun Fact
