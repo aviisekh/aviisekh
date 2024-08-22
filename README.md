@@ -22,8 +22,6 @@ I'm a passionate **Ruby on Rails Developer** and **Project Manager** with a focu
 ![TDD in RSpec](https://img.shields.io/badge/TDD_in_RSpec-FF4088?style=for-the-badge&logo=rspec&logoColor=white)
 ![Sass](https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white)
 ![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
-![Coralogix](https://img.shields.io/badge/Coralogix-232F3E?style=for-the-badge&logo=coralogix&logoColor=white)
-![ScoutAPM](https://img.shields.io/badge/ScoutAPM-0098DB?style=for-the-badge&logo=scout&logoColor=white)
 ![Pusher](https://img.shields.io/badge/Pusher-4EA94B?style=for-the-badge&logo=pusher&logoColor=white)
 ![Google Domains](https://img.shields.io/badge/Google_Domains-4285F4?style=for-the-badge&logo=google&logoColor=white)
 ![Vim](https://img.shields.io/badge/Vim-019733?style=for-the-badge&logo=vim&logoColor=white)
@@ -36,17 +34,25 @@ I'm a passionate **Ruby on Rails Developer** and **Project Manager** with a focu
 
 
 ---
+ <div align="center">
 
   ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=aviisekh&theme=github-dark&hide_border=true)
 
+</div> 
+
+ <div align="center">
+
   ![Your Name's GitHub Stats](https://github-readme-stats.vercel.app/api?username=aviisekh&show_icons=true&theme=dark)
-  
+
+  <div>
+
 ---
 <!--
 ## ☕ Support
 
 [![Buy Me a Coffee](https://img.shields.io/badge/Buy_Me_a_Coffee-F7DF1E?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://www.buymeacoffee.com/your-coffee-link)
  --->
+ 
  <div align="right">
   
   ![Visitor Count](https://komarev.com/ghpvc/?username=aviisekh&style=flat-square)
