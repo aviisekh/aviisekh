@@ -37,8 +37,9 @@ I'm a passionate **Ruby on Rails Developer** and **Project Manager** with a focu
 
 ---
 
+  ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=aviisekh&theme=github-dark&hide_border=true)
+
   ![Your Name's GitHub Stats](https://github-readme-stats.vercel.app/api?username=aviisekh&show_icons=true&theme=dark)
-  ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=aviisekh&theme=dark&hide_border=true)
   
 ---
 <!--
