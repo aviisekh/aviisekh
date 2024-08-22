@@ -35,24 +35,38 @@ I'm a passionate **Ruby on Rails Developer** and **Project Manager** with a focu
 
 ---
 
-<div align="center">
 
-  ![Your Name's GitHub Stats](https://github-readme-stats.vercel.app/api?username=aviisekh&show_icons=true&theme=dark)
+ <table witdh="100%">
+  <tr>
+  <td width="50%">
+    
+  ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=aviisekh&layout=compact&theme=github_dark&hide_border=true)
+    
+  </td>
+  <td width="50%">
+    
+  ![Your Name's GitHub Stats](https://github-readme-stats.vercel.app/api?username=aviisekh&show_icons=true&theme=github_dark&hide_border=true)
+    
+  </td>
+  </tr>
+</table>
 
- <div>
   
  <div align="center">
   
   ![Visitor Count](https://komarev.com/ghpvc/?username=aviisekh&style=flat-square)
   
  </div>
+ 
  <div align="center">
 
    ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=aviisekh&theme=github-dark&hide_border=true)
 
  </div> 
 
- 
+
+
+
 
 ---
 <!--
