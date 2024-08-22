@@ -34,17 +34,25 @@ I'm a passionate **Ruby on Rails Developer** and **Project Manager** with a focu
 
 
 ---
- <div align="center">
 
-  ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=aviisekh&theme=github-dark&hide_border=true)
-
-</div> 
-
- <div align="center">
+<div align="center">
 
   ![Your Name's GitHub Stats](https://github-readme-stats.vercel.app/api?username=aviisekh&show_icons=true&theme=dark)
 
-  <div>
+ <div>
+  
+ <div align="center">
+  
+  ![Visitor Count](https://komarev.com/ghpvc/?username=aviisekh&style=flat-square)
+  
+ </div>
+ <div align="center">
+
+   ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=aviisekh&theme=github-dark&hide_border=true)
+
+ </div> 
+
+ 
 
 ---
 <!--
@@ -53,9 +61,5 @@ I'm a passionate **Ruby on Rails Developer** and **Project Manager** with a focu
 [![Buy Me a Coffee](https://img.shields.io/badge/Buy_Me_a_Coffee-F7DF1E?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://www.buymeacoffee.com/your-coffee-link)
  --->
  
- <div align="right">
-  
-  ![Visitor Count](https://komarev.com/ghpvc/?username=aviisekh&style=flat-square)
-  
-</div>
+
 
