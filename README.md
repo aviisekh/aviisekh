@@ -1,37 +1,50 @@
-# 👋 Hi there, I'm Abhishek!
+# 👋 Hi there, I'm **Abhishek Bhatta**  
 
-I'm a passionate **Ruby on Rails Developer** and **Project Manager** with a focus on building scalable SAAS based web applications and designing microservices architectures. I love solving complex problems and am always looking to improve my skills in software development and project management.
+🚀 **Backend Engineer | SaaS & AI Enthusiast | Multi-Tenant & eCommerce Solutions Expert**  
 
+Welcome to my GitHub! I'm a **backend engineer** with **8+ years of experience** specializing in **scalable SaaS platforms, AI-driven applications, and feature-based monetization**. Currently, I work at **Danphe Software Labs**, providing **software development services to Fluid Commerce**, a **US-based eCommerce platform similar to Shopify**.
 
-## 🛠️ Tech Stack
+---
 
-![Ruby on Rails](https://img.shields.io/badge/Ruby_on_Rails-CC0000?style=for-the-badge&logo=ruby-on-rails&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white)
-![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)
-![Hotwire](https://img.shields.io/badge/Hotwire-E34F26?style=for-the-badge&logo=hotwire&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Ember.js](https://img.shields.io/badge/Ember.js-E04E39?style=for-the-badge&logo=ember.js&logoColor=white)
-![jQuery](https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![GCP](https://img.shields.io/badge/GCP-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
-![Heroku](https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![CI/CD](https://img.shields.io/badge/CI/CD-2E8B57?style=for-the-badge&logo=github-actions&logoColor=white)
-![TDD in RSpec](https://img.shields.io/badge/TDD_in_RSpec-FF4088?style=for-the-badge&logo=rspec&logoColor=white)
-![Sass](https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
-![Pusher](https://img.shields.io/badge/Pusher-4EA94B?style=for-the-badge&logo=pusher&logoColor=white)
-![Google Domains](https://img.shields.io/badge/Google_Domains-4285F4?style=for-the-badge&logo=google&logoColor=white)
-![Vim](https://img.shields.io/badge/Vim-019733?style=for-the-badge&logo=vim&logoColor=white)
-![Twilio](https://img.shields.io/badge/Twilio-F22F46?style=for-the-badge&logo=twilio&logoColor=white)
-![Stripe](https://img.shields.io/badge/Stripe-008CDD?style=for-the-badge&logo=stripe&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Trello](https://img.shields.io/badge/Trello-0079BF?style=for-the-badge&logo=trello&logoColor=white)
-![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white)
-![ClickUp](https://img.shields.io/badge/ClickUp-7B68EE?style=for-the-badge&logo=clickup&logoColor=white)
+## 🔧 **Tech Stack & Expertise**
+- **Languages & Frameworks:** `Ruby on Rails`, `Python`, `Java`, `GraphQL`, `ReactJs`, `EmberJs`, `Hotwire`  
+- **Databases:** `PostgreSQL`, `pg-vector`, `Redis`  
+- **Cloud & DevOps:** `AWS`, `GCP`, `Heroku`, `Docker`, `CI/CD`, `TDD (Rspec)`, `Coralogix`, `ScoutAPM`  
+- **AI & Development Tools:** `OpenAI`, `Langchain`, `Cursor`, `Co-Pilot`  
+- **Feature-Based Development:** Creating **Pro Features** for SaaS platforms with **scalable monetization**  
+- **Other Tools:** `Twilio`, `HelloSign`, `Pusher`, `Stripe`, `Linux`, `Vim`, `Trello`, `Jira`, `ClickUp`  
 
+---
+
+## 🚀 **Key Projects & Contributions**
+✅ **RAG-Based AI Search System** – Built a **pg-vector-based embeddings framework** for AI-powered search & retrieval  
+✅ **Multi-Tenant SaaS Development** – Architected **secure, scalable tenant-based** applications  
+✅ **Pro Feature-Based Modules** – Developed **SaaS premium features** for monetization  
+✅ **Query Performance Optimization** – Improved **database efficiency by 30%**, reducing N+1 queries  
+✅ **Server Cost Reduction** – Saved **$3800/month** by optimizing infrastructure and background jobs  
+✅ **Feature Flags for SaaS** – Implemented **configurable feature flagging system** for multi-tenant platforms  
+
+---
+
+## 📌 **What I’m Currently Working On**
+🔹 **Fluid Commerce** – A **US-based eCommerce platform like Shopify**  
+🔹 **AI-Powered SaaS Features** – Implementing **LLM-based assistants & search**  
+🔹 **Scaling Multi-Tenant Platforms** – Optimizing **backend performance & security**  
+🔹 **Open Source Contributions** – Exploring AI integrations with **LangChain & OpenAI**  
+
+---
+
+## 📫 **How to Reach Me**
+📌 **LinkedIn:** [aviisekh](https://www.linkedin.com/in/aviisekh/)  
+📌 **GitHub:** [aviisekh](https://github.com/aviisekh)  
+📧 **Email:** aviisekh@gmail.com  
+
+💡 **Let's connect and build something amazing together!** 🚀  
+
+---
+
+### 🎯 **Fun Fact:**  
+I love exploring **AI-powered development**, **scalable architectures**, and **trekking in the Himalayas!** 🏔️  
 
 ---
 
@@ -69,6 +82,13 @@ I'm a passionate **Ruby on Rails Developer** and **Project Manager** with a focu
 
 
 ---
+
+
+**✨ Thanks for stopping by! Feel free to explore my repositories.** 😃
+
+
+---
+
 <!--
 ## ☕ Support
 
